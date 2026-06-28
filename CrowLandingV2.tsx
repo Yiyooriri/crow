@@ -96,7 +96,7 @@ export default function CrowLandingV2() {
               target="_blank"
               rel="noreferrer"
             >
-              MUSIC VIDEO ↗
+              MUSIC VIDEO
             </a>
           </section>
         ) : screen === "pinball" ? (
